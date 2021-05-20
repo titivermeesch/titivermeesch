@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm Tristan 👋
+
+I'm a passionate full stack developer trying to learn something new every day!
+
+- Currently working as a Full Stack React/Node developer. We also use Mongo and Meteor to build the drone management platform on steroids 🚀
 
 <!--
 **titivermeesch/titivermeesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
