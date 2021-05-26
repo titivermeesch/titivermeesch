@@ -27,9 +27,9 @@ Some of these technologies may switch order because I'm continuisly learning new
 
 You made or know some crazy cool technology I should add to this list? My ears are all yours!
 
-### Very familiar
+### Mother languages
 
-This is a list of technologies I'm very comfortable working with:
+A list of languages and tools that feel like my parents speak it:
 
 ![react](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
 ![antd](https://img.shields.io/badge/-antd-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -42,9 +42,14 @@ This is a list of technologies I'm very comfortable working with:
 ![react-router](https://img.shields.io/badge/-react%20router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![meteor](https://img.shields.io/badge/-Meteor-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white)
 ![prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![mongo](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Very familiar
+
+This is a list of technologies I'm very comfortable working with:
+
+![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![sentry](https://img.shields.io/badge/-sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![eslint](https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
