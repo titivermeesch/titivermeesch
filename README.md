@@ -49,21 +49,21 @@ A list of languages and tools that feel like my parents speak it:
 
 This is a list of technologies I'm very comfortable working with:
 
+![java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![sentry](https://img.shields.io/badge/-sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![eslint](https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![redis](https://img.shields.io/badge/-redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Somewhat familiar
 
 ![babel](https://img.shields.io/badge/-babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 ![sass](https://img.shields.io/badge/-Sass-E434AA?style=for-the-badge&logo=sass&logoColor=white)
-![maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![redis](https://img.shields.io/badge/-redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![mariadb](https://img.shields.io/badge/-mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![stripe](https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![k8s](https://img.shields.io/badge/-k8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
