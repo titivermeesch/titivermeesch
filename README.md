@@ -51,7 +51,7 @@ This is a list of technologies I'm very comfortable working with:
 
 ![java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![sentry](https://img.shields.io/badge/-sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![eslint](https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
