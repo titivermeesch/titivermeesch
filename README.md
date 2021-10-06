@@ -67,6 +67,7 @@ This is a list of technologies I'm very comfortable working with:
 ![stripe](https://img.shields.io/badge/-stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![docker](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![k8s](https://img.shields.io/badge/-k8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![typescript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tried a few times
 
@@ -91,7 +92,6 @@ This is a list of technologies I'm very comfortable working with:
 ![spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![swagger](https://img.shields.io/badge/-swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
 ![cpp](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![typescript](https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![apollo](https://img.shields.io/badge/-apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 
 ## Some stats
