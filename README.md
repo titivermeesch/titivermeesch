@@ -1,7 +1,6 @@
 # Hey! I'm Tristan 👋
 
 ![birth](https://img.shields.io/badge/First%20release-August%202000-orange?style=for-the-badge)
-![quality](https://img.shields.io/badge/Code%20quality-A%2B%2B-green?style=for-the-badge)
 ![codewars](https://img.shields.io/badge/-codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white&link=https://www.codewars.com/users/PlayBossWar)
 ![stackoverflow](https://img.shields.io/badge/-stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/11750453/trisma)
 ![gitlab](https://img.shields.io/badge/-gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white&link=https://gitlab.com/TristanVermeesch)
