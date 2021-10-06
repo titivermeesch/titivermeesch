@@ -36,7 +36,6 @@ A list of languages and tools that feel like my parents speak it:
 ![sc](https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white)
 ![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![react-router](https://img.shields.io/badge/-react%20router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![meteor](https://img.shields.io/badge/-Meteor-DE4F4F?style=for-the-badge&logo=meteor&logoColor=white)
@@ -54,6 +53,7 @@ This is a list of technologies I'm very comfortable working with:
 ![sentry](https://img.shields.io/badge/-sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![eslint](https://img.shields.io/badge/-eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![redis](https://img.shields.io/badge/-redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
