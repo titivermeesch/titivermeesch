@@ -46,7 +46,7 @@ A list of languages and tools that feel like my parents speak it:
 ### Very familiar
 
 <details>
-  <summary>This is a list of technologies I'm very comfortable working with:</summary>
+  <summary>### Very familiar</summary>
 
 ![java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
