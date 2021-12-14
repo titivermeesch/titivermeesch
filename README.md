@@ -45,9 +45,6 @@ A list of languages and tools that feel like my parents speak it:
 
 ### Very familiar
 
-<details>
-  <summary>### Very familiar</summary>
-
 ![java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![linux](https://img.shields.io/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,7 +54,6 @@ A list of languages and tools that feel like my parents speak it:
 ![jest](https://img.shields.io/badge/-jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![redis](https://img.shields.io/badge/-redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-</details>
 
 ### Somewhat familiar
 
