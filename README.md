@@ -11,7 +11,7 @@ I'm a passionate full stack developer trying to learn something new every day!
 
 ## Current work
 
-Working as a Full Stack React/Node developer at Chatlayer.ai/Sinch. Building the communication of the future!
+Working as a Full Stack React/Node developer at Chatlayer.ai/Sinch. Building the communication platform of the future!
 
 ## My tools
 
