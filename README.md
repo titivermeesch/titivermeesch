@@ -14,4 +14,4 @@ I'm a passionate full stack developer trying to learn something new every day!
 Working as a Full Stack React/Node developer at Chatlayer.ai/Sinch. Building the communication platform of the future!
 
 ## Some stats
-![titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=titivermeesch&show_icons=true&theme=radical&include_all_commits=true&border_radius=20&theme=tokyonight)
+![titi's GitHub stats](https://github-readme-stats.vercel.app/api?username=titivermeesch&show_icons=true&theme=radical&include_all_commits=true&border_radius=20)
