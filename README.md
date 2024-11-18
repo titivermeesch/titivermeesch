@@ -10,4 +10,4 @@ I'm a passionate full stack developer trying to learn something new every day!
 
 ## Current work
 
-Working as a Full Stack Engineer at Chatlayer.ai/Sinch. Building the communication platform of the future! Typescript (Node) and Go are the main languages used on a daily basis
+Working as a Software Engineer at Companion.energy. Building software to manage industrial energy flexibility!
